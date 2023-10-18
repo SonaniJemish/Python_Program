@@ -5,8 +5,15 @@ d = None    # this is none type
 print(a)
 print(b)
 print(c)
-print(d)
+print(d,end="\n\n")
 print("Type of a : ",type(a))
 print("Type of b : ",type(b))
 print("Type of c : ",type(c))
-print("Type of d : ",type(d))
+print("Type of d : ",type(d),end="\n\n")
+
+
+list =  [8,8.2,[-4,5],"apple"]  #here you cad add different type of value and same function in tuple but you can not change value
+print("list value : ",list,end="\n\n")
+
+dictionary = {"name":"Jemish","age":"21","gender":"male"}
+print(dictionary)
