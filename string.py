@@ -52,3 +52,4 @@ print(str3.find("am"),end="\n\n")  #kai index par chhe te batave chhe
 # isalpha --- use to check only alphabet include in string if number are available then show flase
 # islower --- use to check all string characters are small
 # isprintable --- use to check all character are printable or not
+# isspace --- use to check any space are available in string
