@@ -12,7 +12,7 @@ print("Type of c : ",type(c))
 print("Type of d : ",type(d),end="\n\n")
 
 
-list =  [8,8.2,[-4,5],"apple"]  #here you cad add different type of value and same function in tuple but you can not change value
+list =  [8,8.2,[-4,5],"apple"]  #here you can add different type of value and same function in tuple but you can not change value
 print("list value : ",list,end="\n\n")
 
 dictionary = {"name":"Jemish","age":"21","gender":"male"}
