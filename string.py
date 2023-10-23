@@ -42,7 +42,8 @@ print("how many time a in string  : ",str2.count("a"))
 print("how many time radha in string  : ",str2.count("Radhe"),end="\n\n")
 
 print(str2.endswith("e"))
-print(str2.endswith("e",2,11),end="\n\n")
+print(str2.endswith("h",2,10))  #index 2 to 10 me string e se khatam hota hai
+print(str2.endswith("h",2,11),end="\n\n")  #index 2 to 11 me string e se khatam hota hai
 
 #find function     2. index function same use
 str3 = "Hello i am jemish"
